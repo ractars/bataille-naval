@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1475242398 source:c:\users\korecoco\contacts\desktop\algo dossier\tp\bataille 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
